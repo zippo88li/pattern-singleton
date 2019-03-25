@@ -1,0 +1,9 @@
+com\gupao\zippo\pattern\lazy\LazyInnerClassSingleton$lazy.class
+com\gupao\zippo\pattern\lazy\LazyInnerClassSingleton.class
+com\gupao\zippo\pattern\hungry\HungrySingleton.class
+com\gupao\zippo\pattern\lazy\DoubleCheckLazySingleton.class
+com\gupao\zippo\App.class
+com\gupao\zippo\pattern\lazy\LazySingleton.class
+com\gupao\zippo\pattern\lazy\LazyInnerClassSingleton$1.class
+com\gupao\zippo\pattern\register\EnumSingleton.class
+com\gupao\zippo\pattern\hungry\StaticHungrySingleton.class
